@@ -93,21 +93,6 @@ jupyter notebook
 
 Open the notebook located in the `notebooks` folder and run the cells.
 
-## 📌 Key Results
-
-The regression models were trained and evaluated to identify the best-performing model for predicting vehicle fuel efficiency and CO2 emissions.
-
-**Best Model:** Add your best-performing model here.
-
-**R² Score:** Add your actual R² score here.
-
-**MAE:** Add your actual MAE value here.
-
-## 🔍 Key Insights
-
-* Vehicle characteristics such as engine size, cylinders, and fuel consumption can influence CO2 emissions.
-* Regression models can be used to estimate vehicle fuel efficiency based on historical data.
-* Model performance depends on data quality, feature selection, and preprocessing techniques.
 
 ## 👨‍💻 Author
 
